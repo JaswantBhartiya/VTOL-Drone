@@ -154,4 +154,4 @@ Q_TILT_RATE_UP = 45    # Tilt speed in deg/s
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
